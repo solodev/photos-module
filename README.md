@@ -9,7 +9,7 @@
 ## Step 1: Add the Form
  - photo-form.tpl
 
-Create a calendar for the Photo Gallery and upload the following form.
+Create a calendar for the Photo Gallery and upload the following form. This module must be a "Type" of "Photos", which will allow you to upload photos to each gallery.
 
 ```
 <div class="panel-group">
