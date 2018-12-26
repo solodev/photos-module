@@ -3,6 +3,7 @@
 ## Prerequisites
 <ul>
 	<li><a target="_blank" href="https://getbootstrap.com/">Boostrap4</a></li>
+	<li><a target="_blank" href="https://feimosi.github.io/baguetteBox.js/">Baguette Box JS</a></li>
 </ul>
 
 ## Step 1: Add the Form
