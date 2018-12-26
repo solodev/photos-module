@@ -204,7 +204,7 @@ Explore the breathtaking visual backdrop to the LunarXP mission.</p>
 ```
 
 ## Step 3: Add the Detail Template
-- team-detail.tpl
+- photo-detail.tpl
 
 ```
 [entry]
