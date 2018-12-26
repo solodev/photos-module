@@ -9,7 +9,7 @@
 ## Step 1: Add the Form
  - photo-form.tpl
 
-Create a calendar for the Photo Gallery and upload the following form. This module must be a "Type" of "Photos", which will allow you to upload photos to each gallery.
+Create a calendar for the Photo Gallery and upload the following form. This module must be a "Type" of "Photos", which will allow you to upload photos to each gallery. Be sure to replace SITE_NAME with your site's name.
 
 ```
 <div class="panel-group">
@@ -152,7 +152,7 @@ Create a calendar for the Photo Gallery and upload the following form. This modu
         <div class="row">
           <div class="col-md-12">
             <p class="subText">You can access this blog post at the following URL:</p>
-            <a href="https://www.100k-theme.com<?= $calendar_entry->path ?>" target="_blank">https://www.100k-theme.com
+            <a href="https://www.SITE_NAME.com<?= $calendar_entry->path ?>" target="_blank">https://www.SITE_NAME.com
               <?= $calendar_entry->path ?></a>
           </div>
         </div>
