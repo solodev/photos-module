@@ -222,3 +222,29 @@ Explore the breathtaking visual backdrop to the LunarXP mission.</p>
 [/entry]
 
 ```
+
+## Step 4: Add the SCSS/SCC
+  - /_/scss/photos.scss
+
+```
+.bg-hover-light-gray-dark {
+    &:hover {
+        background-color: #e1e1e1 !important;
+    }
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.h-200p {
+    height: 200px;
+}
+
+.cover {
+    object-fit: cover;
+}
+```
+
+## Step 5: Add the JS
+  - /_/js/photos.js
