@@ -10,4 +10,5 @@
   </div>
 [/calendar_entry_attachments_repeat] 
 </div>
+{{post_javascript}}
 [/entry]
