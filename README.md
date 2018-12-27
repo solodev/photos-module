@@ -220,6 +220,7 @@ Explore the breathtaking visual backdrop to the LunarXP mission.</p>
   </div>
 [/calendar_entry_attachments_repeat] 
 </div>
+{{post_javascript}}
 [/entry]
 
 ```
